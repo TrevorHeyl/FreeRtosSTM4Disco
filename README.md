@@ -1,5 +1,5 @@
-# FreeRtosSTM4Disco
-Demonstrates how to bypass the CMSIS_OS wrapper layer forFreeRTOS. This is useful when accessing the FreeRTOS docs and API directly without first needing to which CMSIS wrapper is required.
+# FreeRtos STM4Disco
+Demonstrates how to bypass the CMSIS_OS wrapper layer forFreeRTOS. This is useful when accessing the FreeRTOS docs and API directly without first needing to know which CMSIS wrapper is required.
 
 The application starts 4 tasks, one for each of the Red,Green,Blue and Yellow LEDs. The application uses 25K flash code space and 5.7K SRAM
 
